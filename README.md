@@ -51,7 +51,7 @@
 ![WhatsApp Image 2025-04-22 at 9 27 24 AM](https://github.com/user-attachments/assets/26a3c938-53cd-4988-9d8a-df83c8c59d0d)
 
 ### Name: TEJASREE K
-### Register Number: 212224020168
+### Register Number: 212224240168
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
